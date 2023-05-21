@@ -31,7 +31,7 @@ export default [
   },
   {
     id: 6,
-    name: "Ali",
+    name: "Haider Ali",
     age: 26,
     image: "https://www.course-api.com/images/people/person-4.jpeg",
   },
